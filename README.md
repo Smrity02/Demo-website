@@ -1,2 +1,2 @@
 # Unique-website
-Making a website in a unique way.
+Making a demo website.
