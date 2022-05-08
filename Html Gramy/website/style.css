@@ -1,0 +1,35 @@
+li{
+    list-style: none;
+}
+
+ul>li{
+     margin-left: 2rem;
+     display: flex;
+}
+
+.navbar>nav{
+    display :flex;
+    justify-content: space-between;
+
+}
+
+
+.images>img{
+    height :800px;
+    width :1400px;
+}
+
+.skills{
+    display: flex;
+}
+
+.footer{
+    background-color: black;
+    color: white;x
+    height :80px;
+}
+
+.footer>p{
+    font-size: 25px;
+}
+
